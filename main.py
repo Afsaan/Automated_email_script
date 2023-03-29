@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s',
-                    filename='order_processing.log')
+                    filename='email_process.log')
 
 
 
@@ -31,7 +31,7 @@ def send_email(sender_email,text, sender_pwd):
             print('The body of the email is empty.')
             logging.info('The message is empty')
         finally:
-            print('sending an empty email')
+            print('sending the email')
             logging.info('sending of email processed')
 
 
