@@ -3,3 +3,31 @@
 2023-03-29 17:56:29,499 - INFO - sending of email processed
 2023-03-29 17:56:32,680 - INFO - sending of email processed
 2023-03-29 17:56:35,444 - INFO - sending of email processed
+2023-03-29 18:22:52,274 - INFO - Read the file
+2023-03-29 18:22:52,274 - INFO - sending of email processed
+2023-03-29 18:22:55,675 - INFO - sending of email processed
+2023-03-29 18:22:58,200 - INFO - sending of email processed
+2023-03-29 18:23:00,869 - INFO - sending of email processed
+2023-03-29 18:32:10,206 - INFO - Read the file
+2023-03-29 18:32:10,206 - INFO - sending of email processed
+2023-03-29 18:32:11,859 - CRITICAL - An error occured while sending email. Please try again: (334, b'UGFzc3dvcmQ6')
+2023-03-29 18:32:11,860 - INFO - sending of email processed
+2023-03-29 18:32:13,613 - CRITICAL - An error occured while sending email. Please try again: (334, b'UGFzc3dvcmQ6')
+2023-03-29 18:32:13,613 - INFO - sending of email processed
+2023-03-29 18:32:14,751 - CRITICAL - An error occured while sending email. Please try again: (334, b'UGFzc3dvcmQ6')
+2023-03-29 18:32:14,751 - INFO - sending of email processed
+2023-03-29 18:32:15,850 - CRITICAL - An error occured while sending email. Please try again: (334, b'UGFzc3dvcmQ6')
+2023-03-29 18:35:44,646 - INFO - Read the file
+2023-03-29 18:35:44,647 - INFO - sending of email processed
+2023-03-29 18:35:46,056 - CRITICAL - An error occured while sending email. Please try again: (334, b'UGFzc3dvcmQ6')
+2023-03-29 18:35:46,056 - INFO - sending of email processed
+2023-03-29 18:35:47,031 - CRITICAL - An error occured while sending email. Please try again: (334, b'UGFzc3dvcmQ6')
+2023-03-29 18:35:47,032 - INFO - sending of email processed
+2023-03-29 18:35:48,142 - CRITICAL - An error occured while sending email. Please try again: (334, b'UGFzc3dvcmQ6')
+2023-03-29 18:35:48,143 - INFO - sending of email processed
+2023-03-29 18:35:49,243 - CRITICAL - An error occured while sending email. Please try again: (334, b'UGFzc3dvcmQ6')
+2023-03-29 18:37:22,545 - INFO - Read the file
+2023-03-29 18:37:22,546 - INFO - sending of email processed
+2023-03-29 18:37:25,898 - INFO - sending of email processed
+2023-03-29 18:37:28,465 - INFO - sending of email processed
+2023-03-29 18:37:30,914 - INFO - sending of email processed
