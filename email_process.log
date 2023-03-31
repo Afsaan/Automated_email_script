@@ -31,3 +31,12 @@
 2023-03-29 18:37:25,898 - INFO - sending of email processed
 2023-03-29 18:37:28,465 - INFO - sending of email processed
 2023-03-29 18:37:30,914 - INFO - sending of email processed
+2023-03-31 06:54:08,087 - INFO - Read the file
+2023-03-31 06:54:08,087 - INFO - sending of email processed
+2023-03-31 06:54:08,640 - CRITICAL - An error occured while sending email. Please try again: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)harishpanjikar@gmail.com
+2023-03-31 06:54:08,641 - INFO - sending of email processed
+2023-03-31 06:54:08,890 - CRITICAL - An error occured while sending email. Please try again: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)khanafsan11@gmail.com
+2023-03-31 06:54:08,890 - INFO - sending of email processed
+2023-03-31 06:54:09,969 - CRITICAL - An error occured while sending email. Please try again: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)harishpanjikar94@gmail.com
+2023-03-31 06:54:09,970 - INFO - sending of email processed
+2023-03-31 06:54:10,216 - CRITICAL - An error occured while sending email. Please try again: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1129)rahultiwari@gmail.com
